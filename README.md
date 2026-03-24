@@ -24,3 +24,20 @@ http://aws-static-site-priyanka.s3-website.ap-south-1.amazonaws.com
 - Understood how to host static websites using AWS S3
 - Learned about bucket policies and public access configuration
 - Gained hands-on experience with serverless deployment
+
+## Screenshots
+
+### S3 Bucket
+![Bucket](bucket.jpeg)
+
+### Files in Bucket
+![Files](file.jpeg)
+
+### Permissions & Bucket Policy
+![Permissions](permissions.jpeg)
+
+### Static Website Hosting
+![Hosting](hosting.jpeg)
+
+### Live Website
+![Website](website.jpeg)
